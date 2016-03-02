@@ -12,7 +12,7 @@ Binary trees are often used as [Binary search trees](../Binary Search Tree/). In
 
 For example, here is a binary tree that represents a sequence of arithmetical operations, `(5 * (a - 10)) + (-4 * (3 / b))`:
 
-![A binary tree](Images/OPenrations.png)
+![A binary tree](Images/Operations.png)
 
 ## The code
 
